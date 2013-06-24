@@ -18,7 +18,7 @@
 	<dependencies>
 		<dependency>
 			<dependency-name>PHP</dependency-name>
-			<dependency-version>5.0+</dependency-version>
+			<dependency-version-min>5.0</dependency-version-min>
 			<dependency-description></dependency-description>
 		</dependency>
 		<dependency>

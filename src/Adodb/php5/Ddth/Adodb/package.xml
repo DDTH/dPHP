@@ -18,12 +18,12 @@
     <dependencies>
         <dependency>
             <dependency-name>PHP</dependency-name>
-            <dependency-version>5.0+</dependency-version>
+            <dependency-version-min>5.0</dependency-version-min>
             <dependency-description></dependency-description>
         </dependency>
         <dependency>
             <dependency-name>Ddth::Commons</dependency-name>
-            <dependency-version>0.2+</dependency-version>
+            <dependency-version-min>0.2</dependency-version-min>
             <dependency-description>
 				Ddth::Adodb uses several modules from Ddth::Commons
 				package.
@@ -31,7 +31,7 @@
         </dependency>
         <dependency>
             <dependency-name>ADOdb</dependency-name>
-            <dependency-version>4.51+</dependency-version>
+            <dependency-version-min>4.51</dependency-version-min>
             <dependency-description>
 				Ddth::Adodb requires ADOdb (http://adodb.sourceforge.net) version 4.51 or higher.
 			</dependency-description>
