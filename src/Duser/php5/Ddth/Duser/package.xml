@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE package PUBLIC
 	"-//dPHP Package Description DTD//EN"
-	"http://dphp.googlecode.com/svn/trunk/docs/package.dtd">
+	"https://raw.github.com/DDTH/dPHP/master/src/package.dtd">
 <package>
 	<name>Ddth::Duser</name>
 	<version>0.1</version>
