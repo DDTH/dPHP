@@ -1,3 +1,8 @@
+Go Composer! we have moved to https://github.com/dphp
+=====================================================
+
+This repository is no longer maintained, we have moved to [https://github.com/dphp](https://github.com/dphp)
+
 dPHP
 ====
 
